@@ -1,0 +1,56 @@
+# מורן ומתמטיקה — Generative Engine Optimization Map
+
+> צרו אתר אינטרנט לשיעורי מתמטיקה פרטיים.
+
+---
+
+## Pages
+
+### בית
+https://-c7832cd4.zappy5.app
+מחפשים מורה פרטי למתמטיקה? קבלו שיעורים פרטיים מותאמים אישית לתיכון ובגרות. שיפור ציונים מובטח עם מורן ומתמטיקה. התחילו עכשיו!
+
+### אודות
+https://-c7832cd4.zappy5.app/about
+מורן מתמחה בהוראת מתמטיקה לתיכון ובגרות עם שנות ניסיון רבות. גישה אישית וסבלנית שהביאה מאות תלמידים להצלחה במתמטיקה. למדו עוד!
+
+### שירותים
+https://-c7832cd4.zappy5.app/services
+שיעורי מתמטיקה פרטיים לתיכון, הכנה לבגרות 3-5 יחידות, ליווי אישי והדרכה מקצועית. בחרו את החבילה המתאימה לכם וצאו לדרך להצלחה!
+
+### צור קשר
+https://-c7832cd4.zappy5.app/contact
+מוכנים להצליח במתמטיקה? צרו קשר עכשיו לשיעור היכרות ראשון ללא התחייבות. מורן זמינה לשיעורים פרטיים במתמטיקה בכל רחבי הארץ!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c7832cd4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c7832cd4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c7832cd4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מורן ומתמטיקה
+צרו אתר אינטרנט לשיעורי מתמטיקה פרטיים.
+
+## Target Audience
+
+## Industry
+חינוך
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-c7832cd4.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-c7832cd4.zappy5.app/robots.txt
